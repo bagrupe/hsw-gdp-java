@@ -3,6 +3,13 @@ package de.hsw;
 public class Starter {
     public static void main(String[] args) {
         String input = "Otto";
+
+        String ergebnis = encryptDecrypt(input);
+        
+        System.out.println(ergebnis);
+    }
+
+    public static String encryptDecrypt(String input) {
         int a = "a".codePointAt(0);
         int z = "z".codePointAt(0);
         int A = "A".codePointAt(0);
@@ -30,6 +37,7 @@ public class Starter {
 
             ergebnis = ergebnis + String.valueOf(x);
         }
-        System.out.println(ergebnis);
+
+        return ergebnis;
     }
 }
