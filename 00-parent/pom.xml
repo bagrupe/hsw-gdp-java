@@ -103,6 +103,8 @@
         <module>../35-inheritance</module>
         <module>../36-start</module>
         <module>../36-start-solution</module>
+        <module>../37-oop</module>
+        <module>../37-oop-solution</module>
         <module>../41-collections</module>
         <module>../42-arraylist</module>
         <module>../42-arraylist-solution</module>
