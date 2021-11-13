@@ -16,7 +16,7 @@ public class Starter {
     }
 
     // Aufgabe: Minimum für 1, 2, 3, 4 testen => 1
-    public static double calcMin(int[] array) {
+    public static int calcMin(int[] array) {
         int min = array[0];
         for (int zaehler = 0; zaehler < array.length; zaehler++) {
             if (array[zaehler] < min) {
@@ -28,7 +28,7 @@ public class Starter {
     }
 
     // Aufgabe: Maximum für 1, 2, 3, 4 testen => 4
-    public static double calcMax(int[] array) {
+    public static int calcMax(int[] array) {
         int max = array[0];
         for (int zaehler = 0; zaehler < array.length; zaehler++) {
             if (array[zaehler] > max) {
