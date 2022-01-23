@@ -112,23 +112,5 @@
         <module>../51-serialisierung</module>
         <module>../52-serexperiment</module>
         <module>../53-annotations</module>
-        <module>../z1-aufgabe1</module>
-        <module>../z1-aufgabe2</module>
-        <module>../z1-aufgabe3</module>
-        <module>../z1-aufgabe4</module>
-        <module>../z1-aufgabe5</module>
-        <module>../z1-aufgabe6</module>
-        <module>../z2-aufgabe1</module>
-        <module>../z2-aufgabe2</module>
-        <module>../z2-aufgabe3</module>
-        <module>../z2-aufgabe4</module>
-        <module>../z2-aufgabe5</module>
-        <module>../z2-aufgabe6</module>
-        <module>../z3-aufgabe1</module>
-        <module>../z3-aufgabe2</module>
-        <module>../z3-aufgabe3</module>
-        <module>../z4-aufgabe1</module>
-        <module>../z4-aufgabe2</module>
-        <module>../z4-aufgabe3</module>
     </modules>
 </project>
